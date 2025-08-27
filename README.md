@@ -3,11 +3,15 @@
 This is a currency converter web application created using HTML, CSS, and JavaScript. It enables users to convert between different currencies based on real-time exchange rates. Flag images are updated dynamically using Flags API.User can also be swap between two countries with only a single gesture of clicking on swap button..
 
 ## Features
-  -Converts between various currencies using real-time exchange rates.
-  -Updates flag images dynamically based on selected currencies.
-  -User-friendly interface.
-  -User can easily swap by clicking swap button 
-  -Uodated Exchange Rates
+  1.Converts between various currencies using real-time exchange rates.
+  
+  2.Updates flag images dynamically based on selected currencies.
+  
+  3.User-friendly interface.
+  
+  4.User can easily swap by clicking swap button 
+  
+  5.Uodated Exchange Rates
 ## Usage
 1-Click on the given link .
 
