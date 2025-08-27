@@ -16,6 +16,8 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
   4.User can easily swap by clicking swap button 
   
   5.Uodated Exchange Rates
+
+  6.Responsive Web Application fro mobile and laptop users.
 ## Usage
 1-Click on the given link .
 
